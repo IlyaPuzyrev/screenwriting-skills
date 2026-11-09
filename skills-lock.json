@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "baoyu-translate": {
+      "source": "jimliu/baoyu-skills",
+      "sourceType": "github",
+      "skillPath": "skills/baoyu-translate/SKILL.md",
+      "computedHash": "5ee9b697cc5949eb6eaf6cce3a3c801091bd66d881d2d09e1d2d0167ed1cf49a"
+    }
+  }
+}
